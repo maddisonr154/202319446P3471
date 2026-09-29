@@ -1,1 +1,10 @@
 # 202319446P3471
+<html>
+<body>
+<h1>HTML</h1>
+<hr>
+<p>Hypertext Markup Language (HTML) is the standard <a href=“https://en.wikipedia.org/wiki/Markup_language”>markup language</a> for documents designed to be displayed in a <a href="https://en.wikipedia.org/wiki/Web_browser">web browser.</a> It defines the content and structure of <a href="https://en.wikipedia.org/wiki/Web_content">web content.</a> It is often assisted by technologies such as <a href="https://en.wikipedia.org/wiki/CSS">Cascading Style Sheets</a> (CSS) and <a href="https://en.wikipedia.org/wiki/Scripting_language">scripting languages</a> such as <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Web_browser">Web browsers</a> receive HTML documents from a <a href="https://en.wikipedia.org/wiki/Web_server">web server</a> or from local storage and <a href=https://en.wikipedia.org/wiki/Browser_engine">render</a> the documents into <a href="https://en.wikipedia.org/wiki/Multimedia">multimedia web pages.</a> HTML describes the structure of a <a href= "https://en.wikipedia.org/wiki/Web_page">web page</a> <a href="V">semantically</a> and originally included cues for its appearance.</p>
+<div class="flourish-embed flourish-photo-slider" data-src="visualisation/30398155"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30398155/thumbnail" width="100%" alt="photo-slider visualization" /></noscript></div>
+</body>
+</html>
